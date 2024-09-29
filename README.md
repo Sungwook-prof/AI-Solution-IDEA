@@ -3,6 +3,8 @@
 
 # 사전 학습
 데이터 셋 : [다운로드](https://drive.google.com/file/d/1ND6HWbIJuINC-0-7XrJu2XzZoCtCbuFz/view?usp=drive_link)
+YOLOv9 학습 노트북 : train_yolov9/ipynb
+YOLOv9 학습 교재 : YOLOv9 Training.pdf
 
 # 팀별 지원
 - Colab GPU 사용료 지원(대회 기간 중 사용료 영수증 증빙 후 통장 입금 처리함)
