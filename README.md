@@ -12,7 +12,7 @@
 - 인식 코드 : [camera.zip](https://drive.google.com/file/d/1cNEbD9QCJ0d7-ucSsMlSvD3JWBVOkyOt/view?usp=drive_link)
 
 2) Drone 기반 Image Classification
-   드론 기반 인식 프로그램을 변형하여 드론을 활용하여 인식하는 솔루션으로 변경해야 함.
+- 드론 기반 인식 프로그램을 변형하여 드론을 활용하여 인식하는 솔루션으로 변경해야 함.
 - 데이터 셋 : [데이터 다운로드](https://drive.google.com/file/d/1hdAZOkMQq-1fZBh-VsxZNYim1XERT8AD/view?usp=sharing)
 - mobilenet 학습 노트북 : AI_Hackaton.ipynb
 - mobilenet 추론 노트북 : AI_Hackaton2.ipynb
