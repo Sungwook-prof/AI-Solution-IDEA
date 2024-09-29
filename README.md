@@ -6,6 +6,7 @@
 - 데이터 셋 : [다운로드](https://drive.google.com/file/d/1ND6HWbIJuINC-0-7XrJu2XzZoCtCbuFz/view?usp=drive_link)
 - YOLOv9 학습 노트북 : train_yolov9.ipynb
 - YOLOv9 학습 교재 : YOLOv9 Training.pdf
+- YOLOv9 OpenVINO 모델 변환 노트북 : convert_yolov9.ipynb
 
 2) Drone 기반 Image Classification
    드론 기반 인식 프로그램을 변형하여 드론을 활용하여 인식하는 솔루션으로 변경해야 함.
