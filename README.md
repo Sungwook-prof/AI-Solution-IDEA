@@ -11,6 +11,8 @@
 - YOLOv9 OpenVINO 모델 경량화 노트북 :  quantize_yolov9.ipynb
 - 인식 코드 : [camera.zip](https://drive.google.com/file/d/1cNEbD9QCJ0d7-ucSsMlSvD3JWBVOkyOt/view?usp=drive_link)
 - 카메라 또는 동영상 파일 기반 인식 프로그램을 변형하여, 아이디어를 구현한 AI 솔루션으로 변경해야 함.
+- 동영상 강좌1 [YOLOv9 colab 학습](https://youtu.be/eHtbDfvnKu8)
+- 동영상 강좌2 [동영상 추론 프로그램 강좌](https://youtu.be/WlE58lXgXgM)
 
 2) Drone 기반 Image Classification
 - 데이터 셋 : [데이터 다운로드](https://drive.google.com/file/d/1hdAZOkMQq-1fZBh-VsxZNYim1XERT8AD/view?usp=sharing)
