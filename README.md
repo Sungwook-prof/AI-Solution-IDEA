@@ -4,7 +4,7 @@
 # 사전 학습
 1) 카메라 기반 Object Detection
 - 데이터 셋 : [다운로드](https://drive.google.com/file/d/1ND6HWbIJuINC-0-7XrJu2XzZoCtCbuFz/view?usp=drive_link)
-- YOLOv9 학습 노트북 : train_yolov9/ipynb
+- YOLOv9 학습 노트북 : train_yolov9.ipynb
 - YOLOv9 학습 교재 : YOLOv9 Training.pdf
 
 2) Drone 기반 Image Classification
