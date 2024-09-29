@@ -13,6 +13,7 @@
 - mobilenet 학습 노트북 : AI_Hackaton.ipynb
 - mobilenet 추론 노트북 : AI_Hackaton2.ipynb
 - mobilenet 학습 교재 : AI Training and Inferencing.pdf
+- mobilenet 추론 교재 : Drone Classification.pdf
 - 인식 프로그램 : drone.zip
 - 동영상 강좌1 [이미지 인식](https://youtu.be/fomZdMWF0W0?feature=shared)
 - 동영상 강좌2 [인식 프로그램 강좌](https://youtu.be/MVNxox1S6pI)
