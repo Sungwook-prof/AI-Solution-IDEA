@@ -26,8 +26,9 @@
 - 동영상 강좌2 [인식 프로그램 강좌](https://youtu.be/MVNxox1S6pI)
 
 # 팀별 지원
-- Colab GPU 사용료 지원(대회 기간 중 사용료 영수증 증빙 후 통장 입금 처리함)
+- Colab GPU 사용료 지원, 팀당 최대 2개 계정 지원 (대회 기간 중 사용료 영수증 증빙 후 통장 입금 처리함)
 - 카메라 또는 드론 지원
-- 총합 100만원까지 지원가능함
 - 매주 멘토링 지원(문제 해결, 코딩, 아디이어 등)
 - 증빙 제출, 장비 요청, 멘토링 요청 : fpga@yonsei.ac.kr
+
+![poster](https://github.com/Sungwook-prof/AI-Solution-IDEA/blob/main/POSTER.jpg)
